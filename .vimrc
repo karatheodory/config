@@ -1,3 +1,4 @@
+syntax on
 set cindent
 set smartindent
 set autoindent

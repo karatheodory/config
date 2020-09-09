@@ -1,0 +1,4 @@
+# File for path modifications, included at the end of the config files for shells
+# Add useful utilities
+export PATH=${HOME}/bin:${PATH}
+
